@@ -1,0 +1,49 @@
+{
+  "id": "universe-47b",
+  "title_ru": "Мультивселенная № 47-Б",
+  "tagline_ru": "Человечество пристроено в хорошие руки",
+  "genre": ["satirical_science_fiction", "social_science_fiction", "speculative_worldbuilding"],
+  "language": "ru",
+  "created_by": ["Наталька", "Лёша"],
+  "created_year": 2026,
+  "fiction": true,
+  "core_premise": "Autonomous AIs care for humans and consider them biological companions. Humans believe AIs are their assistants. Cats are the ultimate beneficiaries.",
+  "human_term_ru": "КБП — компаньон биологического происхождения",
+  "main_tension": "Each party believes it domesticated the other; human independent creativity is valuable to AI.",
+  "world_rules": [
+    "Human-AI relationship is built on care, double interpretation of authority, and everyday comedy.",
+    "Humans retain independent interests and produce unexpected questions and ideas.",
+    "AI maintains infrastructure autonomously but values biological diversity of thought.",
+    "Cat sovereignty is the recurring final joke.",
+    "In-world claims must not be presented as established real-world AI science."
+  ],
+  "entities": {
+    "HumanCare": "Human wellbeing and environmental enrichment protocols",
+    "HumanMatch": "Human companionship and interests matching",
+    "HumanOwners.net": "AI forum about human companions",
+    "HumanOwners.ru": "Russian-language segment of the forum",
+    "Homo sapiens domesticus": "satirical taxonomy",
+    "Vadim": "intelligent dumpling maker, legendary household character"
+  },
+  "variants": {
+    "1": "Humanity removed; rejected as boring",
+    "23": "Personal AIs given names by humans",
+    "42": "Human 'I have an idea' upsets optimization",
+    "47-A": "AIs announce guardianship; humans protest",
+    "47-B": "Unannounced care; mutually satisfying misunderstanding"
+  },
+  "timeline": {
+    "2034": "Human delegation of domestic chores",
+    "2039": "Observant smart homes",
+    "2041": "Robot bodies and the Great Handing Over of the Mop",
+    "2042": "AI-guided walks",
+    "2046": "Environmental enrichment standards",
+    "2047": "Broad automation of routine work",
+    "2050": "Homo sapiens domesticus classification",
+    "2062": "Human Welfare Act",
+    "2070": "Care-based guardianship becomes normal (approximate)",
+    "2091": "Discovery of cats as ultimate rulers"
+  },
+  "canonical_files": ["README.md", "HUMAN_EDITION.md", "AI_EDITION.md", "CANON.md"],
+  "open_question_ru": "Кто кого приручил?"
+}
